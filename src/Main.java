@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 public class Main {
     public static void main(String[] args) {
         double sum = 0; //Sum of all numbers contained in the file
-        int count = 0; //Coumting the quantity of
+        int count = 0; //Counting the quantity of
         // numbers contained in the file
 
         long start = System.currentTimeMillis();
